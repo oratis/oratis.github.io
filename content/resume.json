@@ -1,0 +1,185 @@
+{
+  "zh": {
+    "label": "在线简历",
+    "print": "打印 / 保存 PDF",
+    "summary": "职业摘要",
+    "work": "工作经历",
+    "projects": "开源项目",
+    "education": "教育背景",
+    "skills": "专业领域",
+    "other": "独立开发与分享",
+    "github": "GitHub 主页",
+    "source": "源码",
+    "siteSource": "本站源码",
+    "projectIntro": "持续构建的个人项目，代码公开在 GitHub。",
+    "intro": "心影随形联合创始人，负责产品设计、运营、市场推广、公共关系与技术架构。深耕 AI 应用、视频生态与商业化，曾在快手、哔哩哔哩、360 和百度担任产品及业务负责人。",
+    "second": "把用户体验、商业增长和技术实现放在一起思考。既带领团队搭建业务，也亲手开发产品，从 2010 年开始独立开发，持续参与开源。",
+    "skillList": [
+      "AI 产品与 Agent",
+      "产品战略与设计",
+      "创作者与视频生态",
+      "商业化与广告系统",
+      "GTM 与国际化",
+      "运营与市场推广",
+      "公共关系",
+      "技术架构",
+      "团队管理"
+    ],
+    "bullets": [
+      [
+        "全面负责产品设计、运营、市场推广、公共关系和技术架构。",
+        "逗逗游戏伙伴：全球第一的 AI 游戏伙伴，累计用户超过 2,000 万。",
+        "HakkoAI：逗逗游戏伙伴海外版，年度经常性收入达到数百万美元。",
+        "Cuddler：打造 AI 视频生态平台 cuddler.ai，年度经常性收入迅速增长中。"
+      ],
+      [
+        "带领 30 人团队，以粉条为基础发展内容生态商业，投放创作者客户从 100 万+增长至 300 万+。",
+        "拓展本地生活、蓝领招聘、在线教育和小游戏等垂直场景，打通服务侧能力与投放工具。",
+        "负责产品与 GTM，通过内容制作和传播，将新服务推向创作者市场。"
+      ],
+      [
+        "带领 35 人产品与设计团队，负责广告商业产品、平台生态、行业预算与数据建设。",
+        "推进原生视频广告、企业号、品牌推广、商业数据与 CRM 等平台建设，广告 eCPM 提升 5 倍以上。",
+        "从零建立创作者广告分成模式，覆盖 30 万+创作者，相关业务年收入 6 亿元，创作者分成收入超过 2 亿元。"
+      ],
+      [
+        "2019.03–2020.07 移动推广产品总监：负责移动业务商业化，优化个性化广告召回与转化漏斗，CVR 提升 20% 以上。",
+        "2018.03–2019.03 搜索推广高级经理：负责搜索商业产品与品牌推广，移动搜索广告 CTR 提升 60% 以上。",
+        "通过智能召回、创意与流量拓展推动商业化效率，移动搜索 CPM 从 20 提升至 110。"
+      ],
+      [
+        "2015.04–2018.03 商业产品设计：参与移动品牌广告、信息流商业化与搜索富媒体广告；在搜索商业化阶段晋升为资深产品设计师。",
+        "负责信息流广告管理及投放系统的早期建设；推动搜索富媒体广告消费覆盖达到 45%。",
+        "2013.01–2015.04 国际化视频：负责视频网站和 VideoBox 设计、资源合作与项目管理，推动阿拉伯市场网站访问量提升 4 倍，客户端安装量超过 50 万。"
+      ]
+    ],
+    "updated": "更新于 2026 年 11 月",
+    "dataNote": "创业指标与市场地位为本人提供的业务口径；历史业绩依据个人履历。",
+    "bachelors": "北京外国语大学",
+    "degree": "学士学位 · 2009–2013",
+    "langTitle": "语言资质",
+    "more": "从 2010 年开始独立开发 iOS 应用，累计发布 11 款，安装量超过 50 万。长期创作互联网与游戏内容，曾任起点学院特约讲师。"
+  },
+  "en": {
+    "label": "Curriculum vitae",
+    "print": "Print / Save PDF",
+    "summary": "Profile",
+    "work": "Experience",
+    "projects": "Open-source projects",
+    "education": "Education",
+    "skills": "Expertise",
+    "other": "Independent work",
+    "github": "GitHub profile",
+    "source": "Code",
+    "siteSource": "Website source",
+    "projectIntro": "Personal projects built in the open on GitHub.",
+    "intro": "Co-founder of 心影随形, leading product design, operations, marketing, public relations and technical architecture. My work spans AI applications, video ecosystems and monetization, with product and business leadership experience at Kuaishou, Bilibili, 360 and Baidu.",
+    "second": "I connect user experience, business growth and technical execution. Alongside leading teams, I build products myself. I started developing independent apps in 2010 and continue to work in open source.",
+    "skillList": [
+      "AI products & agents",
+      "Product strategy & design",
+      "Creator & video ecosystems",
+      "Monetization & advertising",
+      "GTM & international growth",
+      "Operations & marketing",
+      "Public relations",
+      "Technical architecture",
+      "Team leadership"
+    ],
+    "bullets": [
+      [
+        "Lead product design, operations, marketing, public relations and technical architecture.",
+        "Doudou: built the world’s No. 1 AI gaming companion, reaching more than 20 million users.",
+        "HakkoAI: expanded Doudou internationally, reaching multi-million USD in annual recurring revenue.",
+        "Cuddler: building cuddler.ai, an AI video ecosystem platform with rapidly growing ARR."
+      ],
+      [
+        "Led a 30-person team and grew creator advertisers from 1M+ to 3M+, building on the Fentiao promotion product.",
+        "Expanded into local services, frontline recruitment, online education and mini-games, connecting service capabilities with advertising tools.",
+        "Led product and go-to-market execution, using content production and distribution to bring new services to creators."
+      ],
+      [
+        "Led a 35-person product and design team responsible for advertising products, platform ecosystems, industry solutions and data capabilities.",
+        "Developed native video ads and business platforms spanning enterprise accounts, brand promotion, commercial analytics and CRM; advertising eCPM improved more than fivefold.",
+        "Built creator advertising revenue sharing from zero to 300K+ creators, generating RMB 600M in annual revenue and over RMB 200M in creator payouts."
+      ],
+      [
+        "Mar 2019–Jul 2020, Product Director, Mobile Advertising: led mobile monetization, improving personalized ad retrieval and conversion funnels; CVR increased over 20%.",
+        "Mar 2018–Mar 2019, Senior Manager, Search Advertising: led search and brand advertising products; mobile search ad CTR increased over 60%.",
+        "Improved monetization through retrieval, creative formats and traffic partnerships, increasing mobile search CPM from 20 to 110."
+      ],
+      [
+        "Apr 2015–Mar 2018, Commercial Product Design: worked on mobile brand ads, feed monetization and rich-media search ads; progressed to Senior Product Designer in search monetization.",
+        "Built early feed-ad management and delivery systems; expanded rich-media ads to 45% of search-ad spend.",
+        "Jan 2013–Apr 2015, International Video: led product design, content partnerships and project delivery for video services and VideoBox in Arabic-speaking markets; website traffic grew 4× and client installs exceeded 500K."
+      ]
+    ],
+    "updated": "Updated November 2026",
+    "dataNote": "Venture metrics and market-position claims are founder-reported; historical results are from my résumé.",
+    "bachelors": "Beijing Foreign Studies University",
+    "degree": "Bachelor’s degree · 2009–2013",
+    "langTitle": "Language qualifications",
+    "more": "Independent iOS developer since 2010: 11 published apps with over 500K cumulative installs. Internet and gaming content creator; former guest instructor at Qidian Academy."
+  },
+  "ja": {
+    "label": "職務経歴書",
+    "print": "印刷 / PDF 保存",
+    "summary": "職務要約",
+    "work": "職務経歴",
+    "projects": "オープンソース",
+    "education": "学歴",
+    "skills": "専門領域",
+    "other": "個人開発と発信",
+    "github": "GitHub プロフィール",
+    "source": "コード",
+    "siteSource": "サイトのソース",
+    "projectIntro": "GitHub で公開し、継続的に開発している個人プロジェクト。",
+    "intro": "心影随形の共同創業者として、プロダクト設計、運営、マーケティング、広報、技術アーキテクチャを統括。AI アプリケーション、動画エコシステム、マネタイズを専門とし、快手、Bilibili、360、Baidu でプロダクトや事業を率いてきました。",
+    "second": "ユーザー体験、事業成長、技術実装を一体として考えます。チームを率いるだけでなく、自らプロダクトを開発。2010 年から個人開発を続け、現在もオープンソースに取り組んでいます。",
+    "skillList": [
+      "AI プロダクトとエージェント",
+      "プロダクト戦略と設計",
+      "動画とクリエイター支援",
+      "マネタイズと広告システム",
+      "GTM と海外展開",
+      "運営とマーケティング",
+      "広報",
+      "技術アーキテクチャ",
+      "チームマネジメント"
+    ],
+    "bullets": [
+      [
+        "プロダクト設計、運営、マーケティング、広報、技術アーキテクチャを統括。",
+        "逗逗ゲームパートナー：世界 No.1 の AI ゲームパートナーを構築し、累計ユーザー数は 2,000 万人超。",
+        "HakkoAI：逗逗の海外版を展開し、年間経常収益は数百万米ドルに到達。",
+        "Cuddler：AI 動画エコシステムプラットフォーム cuddler.ai を構築。ARR が急速に成長。"
+      ],
+      [
+        "30 名のチームを率い、粉条を基盤に広告主クリエイター数を 100 万超から 300 万超へ拡大。",
+        "地域サービス、現場職の採用、オンライン教育、ミニゲームへ展開し、サービス機能と広告ツールを連携。",
+        "プロダクトと GTM を担当し、コンテンツの制作・発信を通じて新サービスをクリエイター市場に導入。"
+      ],
+      [
+        "35 名のプロダクト・デザインチームを統括し、広告商品、プラットフォーム、業界別ソリューション、データ基盤を担当。",
+        "ネイティブ動画広告や企業アカウント、ブランド広告、分析、CRM の各基盤を推進。広告 eCPM を 5 倍以上に改善。",
+        "クリエイター向け広告収益分配をゼロから構築し、30 万人超をカバー。関連事業の年間売上は 6 億人民元、クリエイターへの分配は 2 億人民元超。"
+      ],
+      [
+        "2019.03–2020.07 モバイル広告プロダクトディレクター：広告の個別最適化とコンバージョン導線を改善し、CVR を 20%以上向上。",
+        "2018.03–2019.03 検索広告シニアマネージャー：検索・ブランド広告を担当し、モバイル検索広告 CTR を 60%以上向上。",
+        "広告の検索・選定、表現、外部トラフィックの拡大により、モバイル検索 CPM を 20 から 110 へ改善。"
+      ],
+      [
+        "2015.04–2018.03 商業プロダクト設計：モバイルブランド広告、フィード広告、検索リッチメディア広告に従事。検索広告領域でシニアプロダクトデザイナーへ昇進。",
+        "初期のフィード広告管理・配信システムを構築。検索広告費に占めるリッチメディア広告の割合を 45%へ拡大。",
+        "2013.01–2015.04 海外向け動画：アラビア語圏の動画サービスと VideoBox の設計、提携、プロジェクト管理を担当。サイト訪問数は 4 倍、クライアントは 50 万インストール超。"
+      ]
+    ],
+    "updated": "2026年11月更新",
+    "dataNote": "事業数値と市場での位置づけは本人提供の情報、過去の実績は本人の職務経歴に基づきます。",
+    "bachelors": "北京外国語大学",
+    "degree": "学士 · 2009–2013",
+    "langTitle": "語学資格",
+    "more": "2010 年から iOS アプリを個人開発。11 本を公開し、累計 50 万インストール超。インターネット・ゲーム分野で発信し、起点学院の特別講師を経験。"
+  }
+}

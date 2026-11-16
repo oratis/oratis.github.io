@@ -1,0 +1,621 @@
+{
+  "updated": "2026-11-16",
+  "zh": {
+    "lang": "zh-CN",
+    "title": "王碧豪 Bihao Wang · Oratis | 在线简历",
+    "description": "王碧豪，心影随形联合创始人，AI 产品创业者与开源开发者。探索 LISA、TakoAPI、GPTwiki、Markup 和 DeepCode，以及逗逗游戏伙伴、HakkoAI 与 Cuddler 的创业实践。",
+    "nav": [
+      "开源项目",
+      "创业实践",
+      "工作经历",
+      "关于我"
+    ],
+    "skip": "跳到主要内容",
+    "role": "AI 产品创业者 · 开源开发者",
+    "name": "王碧豪",
+    "headline": [
+      "让 AI 走进",
+      "真实生活。"
+    ],
+    "intro": "我是 Bihao Wang，也叫 Oratis。心影随形联合创始人，长期专注 AI 伙伴、视频生态与商业化，也亲手构建开源工具。",
+    "primary": "探索我的项目",
+    "github": "在 GitHub 关注我",
+    "heroNote": "从产品设计到技术架构，从第一位用户到全球市场。",
+    "now": "目前专注",
+    "nowText": "AI 伙伴、创作者生态与个人智能工具",
+    "metrics": [
+      [
+        "2,000万+",
+        "逗逗游戏伙伴用户"
+      ],
+      [
+        "数百万美元",
+        "HakkoAI 年度经常性收入"
+      ],
+      [
+        "2010 →",
+        "持续独立开发与创造"
+      ]
+    ],
+    "projectsLabel": "01 / 开源与产品",
+    "projectsTitle": "把想法做成\n用得上的产品。",
+    "projectsIntro": "我关注人与 AI 如何长期协作，也关注每天使用的工具能否更顺手。下面是我在 GitHub 上持续构建的五个项目。",
+    "allRepos": "浏览全部仓库",
+    "visit": "访问产品",
+    "source": "源代码",
+    "preview": "项目界面预览",
+    "liveStats": "GitHub 实时数据",
+    "projectData": [
+      {
+        "name": "LISA",
+        "repo": "LISA",
+        "domain": "meetlisa.ai",
+        "url": "https://meetlisa.ai/",
+        "category": "个人 AI 助手",
+        "description": "为日常计划、写作和个人知识管理而生。支持云端使用，也可运行在自己的 Mac 上，连接模型、工具与开发工作流。",
+        "tags": [
+          "持久记忆",
+          "Cloud + Mac",
+          "开源"
+        ]
+      },
+      {
+        "name": "TakoAPI",
+        "repo": "TakoAPI",
+        "domain": "takoapi.com",
+        "url": "https://takoapi.com/",
+        "category": "AI Agent 基础设施",
+        "description": "通过统一 API 发现和调用 AI Agent，把开放的 Agent 目录、网关与编码技能生态连接起来。",
+        "tags": [
+          "Agent 目录",
+          "统一 API",
+          "Skills"
+        ]
+      },
+      {
+        "name": "GPTwiki",
+        "repo": "GPTwiki",
+        "domain": "gptwiki.net",
+        "url": "https://gptwiki.net/",
+        "category": "AI 协作知识平台",
+        "description": "在与 AI 的对话中创建和完善知识，让零散的问题与思考，沉淀成可以协作建设的百科内容。",
+        "tags": [
+          "协作百科",
+          "知识创造",
+          "多模型"
+        ]
+      },
+      {
+        "name": "Markup",
+        "repo": "Markup",
+        "domain": "github.com/oratis/Markup",
+        "url": "https://github.com/oratis/Markup",
+        "category": "macOS Markdown 编辑器",
+        "description": "像浏览网页一样阅读 Markdown，需要时再进入编辑。原生轻量体验，支持知识库、双向链接与全文搜索。",
+        "tags": [
+          "macOS",
+          "Tauri + Rust",
+          "Markdown"
+        ]
+      },
+      {
+        "name": "DeepCode",
+        "repo": "deepcode",
+        "domain": "github.com/oratis/deepcode",
+        "url": "https://github.com/oratis/deepcode",
+        "category": "DeepSeek 编程 Agent",
+        "description": "面向真实代码库的开源编程助手。围绕读取、编辑、命令执行、MCP 和可恢复会话构建，持续完善 CLI 与桌面体验。",
+        "tags": [
+          "DeepSeek",
+          "CLI",
+          "MCP"
+        ]
+      }
+    ],
+    "venturesLabel": "02 / 创业实践",
+    "venturesTitle": "让产品长大，\n让体验走向世界。",
+    "founder": "心影随形 · 联合创始人",
+    "founderDate": "2023 年 11 月至今",
+    "founderText": "全面负责产品设计、运营、市场推广、公共关系与技术架构，将 AI 能力转化为面向用户的体验与可持续的业务。",
+    "ventures": [
+      {
+        "name": "逗逗游戏伙伴",
+        "type": "AI 游戏伙伴",
+        "text": "打造全球第一的 AI 游戏伙伴，累计用户超过 2,000 万。",
+        "metric": "2,000万+",
+        "caption": "累计用户",
+        "url": ""
+      },
+      {
+        "name": "HakkoAI",
+        "type": "面向全球市场",
+        "text": "将逗逗游戏伙伴的体验带向海外，年度经常性收入达到数百万美元。",
+        "metric": "数百万美元",
+        "caption": "ARR",
+        "url": "https://hakko.ai/"
+      },
+      {
+        "name": "Cuddler",
+        "type": "AI 视频生态",
+        "text": "打造 cuddler.ai AI 视频生态平台，年度经常性收入迅速增长中。",
+        "metric": "持续增长",
+        "caption": "AI 视频平台 ARR",
+        "url": "https://cuddler.ai/"
+      }
+    ],
+    "metricsNote": "创业数据与市场地位描述采用本人提供的业务口径，更新于 2026 年 11 月。",
+    "experienceLabel": "03 / 工作经历",
+    "experienceTitle": "产品、生态与增长。",
+    "experienceIntro": "从国际化视频与搜索广告，到创作者生态，再到 AI 创业。",
+    "experience": [
+      {
+        "date": "2023.11 — 至今",
+        "company": "心影随形",
+        "role": "联合创始人",
+        "text": "统筹产品设计、运营、市场、公共关系和技术架构，打造逗逗游戏伙伴、HakkoAI 与 Cuddler。",
+        "highlight": "AI 伙伴与视频生态"
+      },
+      {
+        "date": "2022.08 — 2023.11",
+        "company": "快手",
+        "role": "生态商业业务中心负责人",
+        "text": "带领 30 人团队，以粉条为基础拓展本地生活、蓝领招聘、在线教育和小游戏等场景，推动产品与市场落地。",
+        "highlight": "投放创作者客户 100万+ → 300万+"
+      },
+      {
+        "date": "2020.07 — 2022.08",
+        "company": "哔哩哔哩",
+        "role": "商业产品部 产品与设计团队负责人",
+        "text": "带领 35 人团队，负责广告商业产品与平台生态。推进原生视频广告、商业平台和创作者广告分成体系。",
+        "highlight": "广告分成覆盖 30万+ 创作者"
+      },
+      {
+        "date": "2018.03 — 2020.07",
+        "company": "360",
+        "role": "搜索商业化与移动推广产品负责人",
+        "text": "先后担任搜索推广高级经理、移动推广产品总监，负责广告召回、创意样式、转化漏斗与商业化效率。",
+        "highlight": "移动推广 CVR 提升 20%+"
+      },
+      {
+        "date": "2013.01 — 2018.03",
+        "company": "百度",
+        "role": "国际化视频与商业产品设计",
+        "text": "负责国际化视频产品，随后参与移动品牌广告、信息流商业化和搜索富媒体广告。推动 VideoBox 在阿拉伯市场落地。",
+        "highlight": "VideoBox 安装量 50万+"
+      }
+    ],
+    "aboutLabel": "04 / 关于我",
+    "aboutTitle": "保持好奇，\n亲手创造。",
+    "aboutText": "我习惯在产品、技术和商业之间来回走动：理解用户的实际需要，拆解增长问题，再把想法做出来。从 2010 年开始独立开发 iOS 应用，到今天持续参与开源，这种工作方式一直没有改变。",
+    "education": "北京外国语大学 · 学士 · 2009—2013",
+    "languages": "英语专业八级 · IELTS 7.5 · 阿拉伯语专业四级",
+    "aboutNotes": [
+      [
+        "11 款 iOS App",
+        "早期独立开发作品累计安装超过 50 万。"
+      ],
+      [
+        "内容与分享",
+        "持续创作互联网与游戏内容，曾任起点学院特约讲师。"
+      ]
+    ],
+    "contactTitle": "一起聊聊，\n下一个值得做的产品。",
+    "contactText": "AI 产品、开源协作、创作者生态与全球市场。",
+    "contactCta": "找到我 @oratis",
+    "footer": "以好奇心为起点，以产品为回答。",
+    "siteSource": "本站源码",
+    "backTop": "回到顶部"
+  },
+  "en": {
+    "lang": "en",
+    "title": "Bihao Wang · Oratis | Résumé",
+    "description": "Bihao Wang, co-founder of 心影随形, AI product entrepreneur and open-source builder. Explore LISA, TakoAPI, GPTwiki, Markup, DeepCode, Doudou, HakkoAI and Cuddler.",
+    "nav": [
+      "Projects",
+      "Ventures",
+      "Experience",
+      "About"
+    ],
+    "skip": "Skip to content",
+    "role": "AI product entrepreneur · Open-source builder",
+    "name": "Bihao Wang",
+    "headline": [
+      "Making AI part",
+      "of everyday life."
+    ],
+    "intro": "I'm Bihao Wang, also known as Oratis. As co-founder of 心影随形, I build AI companions and video ecosystems, grow businesses, and create open-source tools.",
+    "primary": "Explore my work",
+    "github": "Follow on GitHub",
+    "heroNote": "From product design to architecture. From the first user to global markets.",
+    "now": "CURRENT FOCUS",
+    "nowText": "AI companions, creator ecosystems & personal AI tools",
+    "metrics": [
+      [
+        "20M+",
+        "Doudou gaming companion users"
+      ],
+      [
+        "Multi-million USD",
+        "HakkoAI annual recurring revenue"
+      ],
+      [
+        "2010 →",
+        "Building independent products since"
+      ]
+    ],
+    "projectsLabel": "01 / OPEN SOURCE & PRODUCTS",
+    "projectsTitle": "Ideas made\nuseful.",
+    "projectsIntro": "I explore how people and AI work together over time, while building tools that make everyday work a little better. Five projects I build in the open.",
+    "allRepos": "All repositories",
+    "visit": "Visit product",
+    "source": "Source code",
+    "preview": "Product preview",
+    "liveStats": "Live from GitHub",
+    "projectData": [
+      {
+        "name": "LISA",
+        "repo": "LISA",
+        "domain": "meetlisa.ai",
+        "url": "https://meetlisa.ai/",
+        "category": "PERSONAL AI ASSISTANT",
+        "description": "An assistant for planning, writing and personal knowledge. Use LISA in the cloud or on your Mac, with your choice of models, tools and development workflows.",
+        "tags": [
+          "Persistent memory",
+          "Cloud + Mac",
+          "Open source"
+        ]
+      },
+      {
+        "name": "TakoAPI",
+        "repo": "TakoAPI",
+        "domain": "takoapi.com",
+        "url": "https://takoapi.com/",
+        "category": "AI AGENT INFRASTRUCTURE",
+        "description": "Discover and invoke AI agents through one API. An open agent directory and unified gateway, connected to an ecosystem of coding skills.",
+        "tags": [
+          "Agent directory",
+          "Unified API",
+          "Skills"
+        ]
+      },
+      {
+        "name": "GPTwiki",
+        "repo": "GPTwiki",
+        "domain": "gptwiki.net",
+        "url": "https://gptwiki.net/",
+        "category": "COLLABORATIVE AI KNOWLEDGE",
+        "description": "Create and enrich knowledge through conversations with AI, turning questions and ideas into an encyclopedia people can build together.",
+        "tags": [
+          "Collaborative wiki",
+          "Knowledge creation",
+          "Multi-model"
+        ]
+      },
+      {
+        "name": "Markup",
+        "repo": "Markup",
+        "domain": "github.com/oratis/Markup",
+        "url": "https://github.com/oratis/Markup",
+        "category": "MARKDOWN FOR MACOS",
+        "description": "Read Markdown like a web page, then edit on demand. A lightweight native app with a knowledge vault, backlinks and full-text search.",
+        "tags": [
+          "macOS",
+          "Tauri + Rust",
+          "Markdown"
+        ]
+      },
+      {
+        "name": "DeepCode",
+        "repo": "deepcode",
+        "domain": "github.com/oratis/deepcode",
+        "url": "https://github.com/oratis/deepcode",
+        "category": "DEEPSEEK CODING AGENT",
+        "description": "An open-source coding agent for real repositories. Read, edit, run commands and connect MCP tools, with resumable sessions and evolving CLI and desktop experiences.",
+        "tags": [
+          "DeepSeek",
+          "CLI",
+          "MCP"
+        ]
+      }
+    ],
+    "venturesLabel": "02 / VENTURES",
+    "venturesTitle": "Building products.\nGrowing across borders.",
+    "founder": "心影随形 · Co-founder",
+    "founderDate": "November 2023 — Present",
+    "founderText": "I lead product design, operations, marketing, public relations and technical architecture, turning AI capabilities into useful experiences and sustainable businesses.",
+    "ventures": [
+      {
+        "name": "Doudou",
+        "type": "AI GAMING COMPANION",
+        "text": "Built the world's No. 1 AI gaming companion, reaching more than 20 million users.",
+        "metric": "20M+",
+        "caption": "Users",
+        "url": ""
+      },
+      {
+        "name": "HakkoAI",
+        "type": "BUILT FOR GLOBAL MARKETS",
+        "text": "Doudou's international version, with annual recurring revenue in the multi-million US dollar range.",
+        "metric": "Multi-million USD",
+        "caption": "ARR",
+        "url": "https://hakko.ai/"
+      },
+      {
+        "name": "Cuddler",
+        "type": "AI VIDEO ECOSYSTEM",
+        "text": "Building cuddler.ai, an AI video ecosystem platform with rapidly growing annual recurring revenue.",
+        "metric": "Growing",
+        "caption": "AI video platform ARR",
+        "url": "https://cuddler.ai/"
+      }
+    ],
+    "metricsNote": "Venture metrics and market-position claims are founder-reported, updated November 2026.",
+    "experienceLabel": "03 / EXPERIENCE",
+    "experienceTitle": "Product, ecosystems & growth.",
+    "experienceIntro": "From international video and search advertising to creator ecosystems and AI entrepreneurship.",
+    "experience": [
+      {
+        "date": "Nov 2023 — Present",
+        "company": "心影随形",
+        "role": "Co-founder",
+        "text": "Lead product design, operations, marketing, public relations and technical architecture across Doudou, HakkoAI and Cuddler.",
+        "highlight": "AI companions & video ecosystems"
+      },
+      {
+        "date": "Aug 2022 — Nov 2023",
+        "company": "Kuaishou",
+        "role": "Head of Ecosystem Commerce Business Center",
+        "text": "Led a 30-person team, expanding creator promotion into local services, frontline recruitment, online education and mini-games.",
+        "highlight": "Creator advertisers: 1M+ → 3M+"
+      },
+      {
+        "date": "Jul 2020 — Aug 2022",
+        "company": "Bilibili",
+        "role": "Head of Commercial Product & Design",
+        "text": "Led a 35-person team responsible for advertising products and platforms, native video ads and creator revenue sharing.",
+        "highlight": "Revenue sharing reached 300K+ creators"
+      },
+      {
+        "date": "Mar 2018 — Jul 2020",
+        "company": "360",
+        "role": "Search & Mobile Monetization Product Leader",
+        "text": "Served as senior manager for search advertising, then product director for mobile advertising, improving retrieval, creative formats and conversion funnels.",
+        "highlight": "Mobile advertising CVR improved 20%+"
+      },
+      {
+        "date": "Jan 2013 — Mar 2018",
+        "company": "Baidu",
+        "role": "International Video & Commercial Product Design",
+        "text": "Built international video products, then worked on mobile brand ads, feed monetization and rich-media search ads. Launched VideoBox in Arabic-speaking markets.",
+        "highlight": "VideoBox reached 500K+ installs"
+      }
+    ],
+    "aboutLabel": "04 / ABOUT",
+    "aboutTitle": "Stay curious.\nKeep building.",
+    "aboutText": "I work across product, technology and business: understanding real needs, making sense of growth, and turning ideas into working products. I've built independent iOS apps since 2010. Open source is a continuation of that hands-on approach.",
+    "education": "Beijing Foreign Studies University · Bachelor's degree · 2009–2013",
+    "languages": "English TEM-8 · IELTS 7.5 · Arabic TEM-4",
+    "aboutNotes": [
+      [
+        "11 iOS apps",
+        "Early independent apps reached over 500,000 cumulative installs."
+      ],
+      [
+        "Writing & teaching",
+        "Internet and gaming content creator; former guest instructor at Qidian Academy."
+      ]
+    ],
+    "contactTitle": "Let's talk about\nwhat's worth building next.",
+    "contactText": "AI products, open-source collaboration, creator ecosystems and global markets.",
+    "contactCta": "Find me @oratis",
+    "footer": "Curiosity, made into products.",
+    "siteSource": "Website source",
+    "backTop": "Back to top"
+  },
+  "ja": {
+    "lang": "ja",
+    "title": "王碧豪 Bihao Wang · Oratis | 職務経歴書",
+    "description": "心影随形の共同創業者、王碧豪 Bihao Wang。AI パートナー、動画エコシステム、オープンソース開発に取り組む。LISA、TakoAPI、GPTwiki、Markup、DeepCode を紹介。",
+    "nav": [
+      "プロジェクト",
+      "起業",
+      "経歴",
+      "プロフィール"
+    ],
+    "skip": "本文へ移動",
+    "role": "AI プロダクト起業家 · オープンソース開発者",
+    "name": "王碧豪",
+    "headline": [
+      "AI を、",
+      "日々の暮らしへ。"
+    ],
+    "intro": "Bihao Wang、Oratis として活動しています。心影随形の共同創業者として、AI パートナーや動画のエコシステムを育てながら、オープンソースのツールも自ら開発しています。",
+    "primary": "プロジェクトを見る",
+    "github": "GitHub でフォロー",
+    "heroNote": "プロダクト設計から技術アーキテクチャへ。最初のユーザーから世界の市場へ。",
+    "now": "現在のテーマ",
+    "nowText": "AI パートナー、クリエイター支援、パーソナル AI",
+    "metrics": [
+      [
+        "2,000万人超",
+        "逗逗ゲームパートナーのユーザー"
+      ],
+      [
+        "数百万米ドル",
+        "HakkoAI の年間経常収益"
+      ],
+      [
+        "2010 →",
+        "個人でのプロダクト開発を継続"
+      ]
+    ],
+    "projectsLabel": "01 / オープンソースとプロダクト",
+    "projectsTitle": "アイデアを、\n役立つかたちに。",
+    "projectsIntro": "人と AI が長く協働する方法を探りながら、日々の仕事を支えるツールを開発しています。GitHub で公開している 5 つのプロジェクトです。",
+    "allRepos": "すべてのリポジトリ",
+    "visit": "サイトを見る",
+    "source": "ソースコード",
+    "preview": "プロダクト画面",
+    "liveStats": "GitHub の最新データ",
+    "projectData": [
+      {
+        "name": "LISA",
+        "repo": "LISA",
+        "domain": "meetlisa.ai",
+        "url": "https://meetlisa.ai/",
+        "category": "パーソナル AI アシスタント",
+        "description": "日々の計画、文章作成、個人のナレッジ管理を支援。クラウドでも自分の Mac でも利用でき、モデルやツール、開発ワークフローとつながります。",
+        "tags": [
+          "継続的な記憶",
+          "Cloud + Mac",
+          "オープンソース"
+        ]
+      },
+      {
+        "name": "TakoAPI",
+        "repo": "TakoAPI",
+        "domain": "takoapi.com",
+        "url": "https://takoapi.com/",
+        "category": "AI エージェント基盤",
+        "description": "ひとつの API から AI エージェントを探して呼び出す。公開ディレクトリと統合ゲートウェイを、コーディングスキルのエコシステムにつなぎます。",
+        "tags": [
+          "エージェント一覧",
+          "統合 API",
+          "Skills"
+        ]
+      },
+      {
+        "name": "GPTwiki",
+        "repo": "GPTwiki",
+        "domain": "gptwiki.net",
+        "url": "https://gptwiki.net/",
+        "category": "AI との共同知識創造",
+        "description": "AI との対話から知識を作り、深める。日々の疑問やアイデアを、みんなで育てられる百科事典へと変えていきます。",
+        "tags": [
+          "共同編集",
+          "知識創造",
+          "複数モデル"
+        ]
+      },
+      {
+        "name": "Markup",
+        "repo": "Markup",
+        "domain": "github.com/oratis/Markup",
+        "url": "https://github.com/oratis/Markup",
+        "category": "MACOS 用 MARKDOWN エディタ",
+        "description": "Markdown をウェブページのように読み、必要なときに編集。軽量なネイティブアプリで、ナレッジ管理、バックリンク、全文検索に対応。",
+        "tags": [
+          "macOS",
+          "Tauri + Rust",
+          "Markdown"
+        ]
+      },
+      {
+        "name": "DeepCode",
+        "repo": "deepcode",
+        "domain": "github.com/oratis/deepcode",
+        "url": "https://github.com/oratis/deepcode",
+        "category": "DEEPSEEK コーディングエージェント",
+        "description": "実際のコードベースで使うオープンソースの開発支援。読み取り、編集、コマンド実行、MCP、再開可能なセッションを備え、CLI とデスクトップ体験を開発中。",
+        "tags": [
+          "DeepSeek",
+          "CLI",
+          "MCP"
+        ]
+      }
+    ],
+    "venturesLabel": "02 / 起業への取り組み",
+    "venturesTitle": "プロダクトを育て、\n世界へ届ける。",
+    "founder": "心影随形 · 共同創業者",
+    "founderDate": "2023年11月 — 現在",
+    "founderText": "プロダクト設計、運営、マーケティング、広報、技術アーキテクチャを統括。AI の技術を、ユーザーに役立つ体験と持続的な事業に変えています。",
+    "ventures": [
+      {
+        "name": "逗逗ゲームパートナー",
+        "type": "AI ゲームパートナー",
+        "text": "世界 No.1 の AI ゲームパートナーを構築し、累計ユーザー数は 2,000 万人を超えました。",
+        "metric": "2,000万人超",
+        "caption": "累計ユーザー",
+        "url": ""
+      },
+      {
+        "name": "HakkoAI",
+        "type": "グローバル市場へ",
+        "text": "逗逗ゲームパートナーの海外版として展開。年間経常収益は数百万米ドルに達しています。",
+        "metric": "数百万米ドル",
+        "caption": "ARR",
+        "url": "https://hakko.ai/"
+      },
+      {
+        "name": "Cuddler",
+        "type": "AI 動画エコシステム",
+        "text": "AI 動画エコシステムプラットフォーム cuddler.ai を構築。年間経常収益が急速に成長しています。",
+        "metric": "成長を継続",
+        "caption": "AI 動画プラットフォームの ARR",
+        "url": "https://cuddler.ai/"
+      }
+    ],
+    "metricsNote": "事業数値と市場での位置づけは本人提供の情報に基づきます。2026年11月更新。",
+    "experienceLabel": "03 / 経歴",
+    "experienceTitle": "プロダクト、エコシステム、成長。",
+    "experienceIntro": "海外向け動画サービスと検索広告から、クリエイター支援、そして AI 起業へ。",
+    "experience": [
+      {
+        "date": "2023.11 — 現在",
+        "company": "心影随形",
+        "role": "共同創業者",
+        "text": "プロダクト設計、運営、マーケティング、広報、技術アーキテクチャを統括。逗逗、HakkoAI、Cuddler を展開。",
+        "highlight": "AI パートナーと動画エコシステム"
+      },
+      {
+        "date": "2022.08 — 2023.11",
+        "company": "快手 Kuaishou",
+        "role": "エコシステムコマース事業センター責任者",
+        "text": "30 名のチームを率い、粉条を基盤に地域サービス、現場職の採用、オンライン教育、ミニゲームへクリエイター向け販促を拡大。",
+        "highlight": "広告主クリエイター 100万超 → 300万超"
+      },
+      {
+        "date": "2020.07 — 2022.08",
+        "company": "哔哩哔哩 Bilibili",
+        "role": "商業プロダクト部 プロダクト・デザイン責任者",
+        "text": "35 名のチームを率い、広告プロダクトとプラットフォームを担当。ネイティブ動画広告とクリエイターへの広告収益分配を推進。",
+        "highlight": "収益分配の対象 30万クリエイター超"
+      },
+      {
+        "date": "2018.03 — 2020.07",
+        "company": "360",
+        "role": "検索・モバイル広告プロダクト責任者",
+        "text": "検索広告のシニアマネージャーを経て、モバイル広告のプロダクトディレクターに。広告の検索・選定、表現、コンバージョンを改善。",
+        "highlight": "モバイル広告 CVR 20%以上改善"
+      },
+      {
+        "date": "2013.01 — 2018.03",
+        "company": "百度 Baidu",
+        "role": "海外向け動画・商業プロダクト設計",
+        "text": "海外向け動画を担当後、モバイルブランド広告、フィード広告、検索リッチメディア広告に従事。アラビア語圏で VideoBox を展開。",
+        "highlight": "VideoBox 50万インストール超"
+      }
+    ],
+    "aboutLabel": "04 / プロフィール",
+    "aboutTitle": "好奇心を持ち、\n自ら作り続ける。",
+    "aboutText": "プロダクト、技術、ビジネスを行き来しながら、ユーザーの実際の課題を理解し、成長の仕組みを考え、アイデアを形にします。2010 年に始めた個人での iOS アプリ開発から、現在のオープンソース活動まで、この姿勢は変わりません。",
+    "education": "北京外国語大学 · 学士 · 2009–2013",
+    "languages": "英語専攻 TEM-8 · IELTS 7.5 · アラビア語専攻 TEM-4",
+    "aboutNotes": [
+      [
+        "11 本の iOS アプリ",
+        "初期の個人開発アプリは累計 50 万インストールを突破。"
+      ],
+      [
+        "執筆と教育",
+        "インターネットやゲームのコンテンツを制作。起点学院で特別講師を経験。"
+      ]
+    ],
+    "contactTitle": "次に作りたいものを、\n一緒に話しましょう。",
+    "contactText": "AI プロダクト、オープンソース、クリエイター支援、グローバル市場。",
+    "contactCta": "GitHub で @oratis へ",
+    "footer": "好奇心から、プロダクトへ。",
+    "siteSource": "サイトのソース",
+    "backTop": "ページの先頭へ"
+  }
+}
