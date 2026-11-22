@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-22",
   "zh": {
     "lang": "zh-CN",
-    "title": "王碧豪 Bihao Wang · Oratis | 在线简历",
-    "description": "王碧豪，心影随形联合创始人，AI 产品创业者与开源开发者。探索 LISA、TakoAPI、GPTwiki、Markup 和 DeepCode，以及逗逗游戏伙伴、HakkoAI 与 Cuddler 的创业实践。",
+    "title": "oratis | 在线简历",
+    "description": "oratis，心影随形联合创始人，AI 产品创业者与开源开发者。探索 LISA、TakoAPI、GPTwiki、Markup 和 DeepCode，以及逗逗游戏伙伴、HakkoAI 与 Cuddler 的创业实践。",
     "nav": [
       "开源项目",
       "创业实践",
@@ -12,31 +12,17 @@
     ],
     "skip": "跳到主要内容",
     "role": "AI 产品创业者 · 开源开发者",
-    "name": "王碧豪",
+    "name": "oratis",
     "headline": [
       "让 AI 走进",
       "真实生活。"
     ],
-    "intro": "我是 Bihao Wang，也叫 Oratis。心影随形联合创始人，长期专注 AI 伙伴、视频生态与商业化，也亲手构建开源工具。",
+    "intro": "我是 oratis，心影随形联合创始人，长期专注 AI 伙伴、视频生态与商业化，也亲手构建开源工具。",
     "primary": "探索我的项目",
     "github": "在 GitHub 关注我",
     "heroNote": "从产品设计到技术架构，从第一位用户到全球市场。",
     "now": "目前专注",
     "nowText": "AI 伙伴、创作者生态与个人智能工具",
-    "metrics": [
-      [
-        "2,000万+",
-        "逗逗游戏伙伴用户"
-      ],
-      [
-        "数百万美元",
-        "HakkoAI 年度经常性收入"
-      ],
-      [
-        "2010 →",
-        "持续独立开发与创造"
-      ]
-    ],
     "projectsLabel": "01 / 开源与产品",
     "projectsTitle": "把想法做成\n用得上的产品。",
     "projectsIntro": "我关注人与 AI 如何长期协作，也关注每天使用的工具能否更顺手。下面是我在 GitHub 上持续构建的五个项目。",
@@ -44,7 +30,6 @@
     "visit": "访问产品",
     "source": "源代码",
     "preview": "项目界面预览",
-    "liveStats": "GitHub 实时数据",
     "projectData": [
       {
         "name": "LISA",
@@ -182,6 +167,11 @@
         "role": "国际化视频与商业产品设计",
         "text": "负责国际化视频产品，随后参与移动品牌广告、信息流商业化和搜索富媒体广告。推动 VideoBox 在阿拉伯市场落地。",
         "highlight": "VideoBox 安装量 50万+"
+      },
+      {
+        "date": "大学期间",
+        "company": "北京外国语大学",
+        "role": "iOS 应用创业 · 学生会副会长"
       }
     ],
     "aboutLabel": "04 / 关于我",
@@ -192,7 +182,7 @@
     "aboutNotes": [
       [
         "11 款 iOS App",
-        "早期独立开发作品累计安装超过 50 万。"
+        "独立开发的 iOS 应用累计用户超过 100 万。"
       ],
       [
         "内容与分享",
@@ -208,8 +198,8 @@
   },
   "en": {
     "lang": "en",
-    "title": "Bihao Wang · Oratis | Résumé",
-    "description": "Bihao Wang, co-founder of 心影随形, AI product entrepreneur and open-source builder. Explore LISA, TakoAPI, GPTwiki, Markup, DeepCode, Doudou, HakkoAI and Cuddler.",
+    "title": "oratis | Résumé",
+    "description": "oratis, co-founder of 心影随形, AI product entrepreneur and open-source builder. Explore LISA, TakoAPI, GPTwiki, Markup, DeepCode, Doudou, HakkoAI and Cuddler.",
     "nav": [
       "Projects",
       "Ventures",
@@ -218,31 +208,17 @@
     ],
     "skip": "Skip to content",
     "role": "AI product entrepreneur · Open-source builder",
-    "name": "Bihao Wang",
+    "name": "oratis",
     "headline": [
       "Making AI part",
       "of everyday life."
     ],
-    "intro": "I'm Bihao Wang, also known as Oratis. As co-founder of 心影随形, I build AI companions and video ecosystems, grow businesses, and create open-source tools.",
+    "intro": "I'm oratis. As co-founder of 心影随形, I build AI companions and video ecosystems, grow businesses, and create open-source tools.",
     "primary": "Explore my work",
     "github": "Follow on GitHub",
     "heroNote": "From product design to architecture. From the first user to global markets.",
     "now": "CURRENT FOCUS",
     "nowText": "AI companions, creator ecosystems & personal AI tools",
-    "metrics": [
-      [
-        "20M+",
-        "Doudou gaming companion users"
-      ],
-      [
-        "Multi-million USD",
-        "HakkoAI annual recurring revenue"
-      ],
-      [
-        "2010 →",
-        "Building independent products since"
-      ]
-    ],
     "projectsLabel": "01 / OPEN SOURCE & PRODUCTS",
     "projectsTitle": "Ideas made\nuseful.",
     "projectsIntro": "I explore how people and AI work together over time, while building tools that make everyday work a little better. Five projects I build in the open.",
@@ -250,7 +226,6 @@
     "visit": "Visit product",
     "source": "Source code",
     "preview": "Product preview",
-    "liveStats": "Live from GitHub",
     "projectData": [
       {
         "name": "LISA",
@@ -388,6 +363,11 @@
         "role": "International Video & Commercial Product Design",
         "text": "Built international video products, then worked on mobile brand ads, feed monetization and rich-media search ads. Launched VideoBox in Arabic-speaking markets.",
         "highlight": "VideoBox reached 500K+ installs"
+      },
+      {
+        "date": "During university",
+        "company": "Beijing Foreign Studies University",
+        "role": "iOS app entrepreneur and student union vice president"
       }
     ],
     "aboutLabel": "04 / ABOUT",
@@ -398,7 +378,7 @@
     "aboutNotes": [
       [
         "11 iOS apps",
-        "Early independent apps reached over 500,000 cumulative installs."
+        "My independent iOS apps have reached more than one million users in total."
       ],
       [
         "Writing & teaching",
@@ -414,8 +394,8 @@
   },
   "ja": {
     "lang": "ja",
-    "title": "王碧豪 Bihao Wang · Oratis | 職務経歴書",
-    "description": "心影随形の共同創業者、王碧豪 Bihao Wang。AI パートナー、動画エコシステム、オープンソース開発に取り組む。LISA、TakoAPI、GPTwiki、Markup、DeepCode を紹介。",
+    "title": "oratis | 職務経歴書",
+    "description": "心影随形の共同創業者、oratis。AI パートナー、動画エコシステム、オープンソース開発に取り組む。LISA、TakoAPI、GPTwiki、Markup、DeepCode を紹介。",
     "nav": [
       "プロジェクト",
       "起業",
@@ -424,31 +404,17 @@
     ],
     "skip": "本文へ移動",
     "role": "AI プロダクト起業家 · オープンソース開発者",
-    "name": "王碧豪",
+    "name": "oratis",
     "headline": [
       "AI を、",
       "日々の暮らしへ。"
     ],
-    "intro": "Bihao Wang、Oratis として活動しています。心影随形の共同創業者として、AI パートナーや動画のエコシステムを育てながら、オープンソースのツールも自ら開発しています。",
+    "intro": "oratis として活動しています。心影随形の共同創業者として、AI パートナーや動画のエコシステムを育てながら、オープンソースのツールも自ら開発しています。",
     "primary": "プロジェクトを見る",
     "github": "GitHub でフォロー",
     "heroNote": "プロダクト設計から技術アーキテクチャへ。最初のユーザーから世界の市場へ。",
     "now": "現在のテーマ",
     "nowText": "AI パートナー、クリエイター支援、パーソナル AI",
-    "metrics": [
-      [
-        "2,000万人超",
-        "逗逗ゲームパートナーのユーザー"
-      ],
-      [
-        "数百万米ドル",
-        "HakkoAI の年間経常収益"
-      ],
-      [
-        "2010 →",
-        "個人でのプロダクト開発を継続"
-      ]
-    ],
     "projectsLabel": "01 / オープンソースとプロダクト",
     "projectsTitle": "アイデアを、\n役立つかたちに。",
     "projectsIntro": "人と AI が長く協働する方法を探りながら、日々の仕事を支えるツールを開発しています。GitHub で公開している 5 つのプロジェクトです。",
@@ -456,7 +422,6 @@
     "visit": "サイトを見る",
     "source": "ソースコード",
     "preview": "プロダクト画面",
-    "liveStats": "GitHub の最新データ",
     "projectData": [
       {
         "name": "LISA",
@@ -594,6 +559,11 @@
         "role": "海外向け動画・商業プロダクト設計",
         "text": "海外向け動画を担当後、モバイルブランド広告、フィード広告、検索リッチメディア広告に従事。アラビア語圏で VideoBox を展開。",
         "highlight": "VideoBox 50万インストール超"
+      },
+      {
+        "date": "大学在学中",
+        "company": "北京外国語大学",
+        "role": "iOS アプリで起業・学生会副会長"
       }
     ],
     "aboutLabel": "04 / プロフィール",
@@ -604,7 +574,7 @@
     "aboutNotes": [
       [
         "11 本の iOS アプリ",
-        "初期の個人開発アプリは累計 50 万インストールを突破。"
+        "個人開発の iOS アプリの累計ユーザー数は 100 万人を超えました。"
       ],
       [
         "執筆と教育",

@@ -7,7 +7,7 @@
     "projects": "开源项目",
     "education": "教育背景",
     "skills": "专业领域",
-    "other": "独立开发与分享",
+    "other": "内容创作与分享",
     "github": "GitHub 主页",
     "source": "源码",
     "siteSource": "本站源码",
@@ -23,6 +23,7 @@
       "运营与市场推广",
       "公共关系",
       "技术架构",
+      "iOS 开发（精通 Objective-C、Swift）",
       "团队管理"
     ],
     "bullets": [
@@ -51,6 +52,10 @@
         "2015.04–2018.03 商业产品设计：参与移动品牌广告、信息流商业化与搜索富媒体广告；在搜索商业化阶段晋升为资深产品设计师。",
         "负责信息流广告管理及投放系统的早期建设；推动搜索富媒体广告消费覆盖达到 45%。",
         "2013.01–2015.04 国际化视频：负责视频网站和 VideoBox 设计、资源合作与项目管理，推动阿拉伯市场网站访问量提升 4 倍，客户端安装量超过 50 万。"
+      ],
+      [
+        "2010 年开始独立开发 iOS 应用，在 App Store 上架《高清美剧》《寿司达人》等作品。迄今共发布 11 款应用，累计用户超过 100 万。",
+        "担任学生会副会长，负责全校 IT 建设。"
       ]
     ],
     "updated": "更新于 2026 年 11 月",
@@ -58,7 +63,7 @@
     "bachelors": "北京外国语大学",
     "degree": "学士学位 · 2009–2013",
     "langTitle": "语言资质",
-    "more": "从 2010 年开始独立开发 iOS 应用，累计发布 11 款，安装量超过 50 万。长期创作互联网与游戏内容，曾任起点学院特约讲师。"
+    "more": "长期创作互联网与游戏内容，曾任起点学院特约讲师。"
   },
   "en": {
     "label": "Curriculum vitae",
@@ -68,7 +73,7 @@
     "projects": "Open-source projects",
     "education": "Education",
     "skills": "Expertise",
-    "other": "Independent work",
+    "other": "Writing and teaching",
     "github": "GitHub profile",
     "source": "Code",
     "siteSource": "Website source",
@@ -84,6 +89,7 @@
       "Operations & marketing",
       "Public relations",
       "Technical architecture",
+      "iOS development (advanced Objective-C and Swift)",
       "Team leadership"
     ],
     "bullets": [
@@ -112,6 +118,10 @@
         "Apr 2015–Mar 2018, Commercial Product Design: worked on mobile brand ads, feed monetization and rich-media search ads; progressed to Senior Product Designer in search monetization.",
         "Built early feed-ad management and delivery systems; expanded rich-media ads to 45% of search-ad spend.",
         "Jan 2013–Apr 2015, International Video: led product design, content partnerships and project delivery for video services and VideoBox in Arabic-speaking markets; website traffic grew 4× and client installs exceeded 500K."
+      ],
+      [
+        "I started developing iOS apps independently in 2010 and released 高清美剧 and 寿司达人 on the App Store. My 11 published apps have reached more than one million users in total.",
+        "As vice president of the student union, I was responsible for developing IT infrastructure across the university."
       ]
     ],
     "updated": "Updated November 2026",
@@ -119,7 +129,7 @@
     "bachelors": "Beijing Foreign Studies University",
     "degree": "Bachelor’s degree · 2009–2013",
     "langTitle": "Language qualifications",
-    "more": "Independent iOS developer since 2010: 11 published apps with over 500K cumulative installs. Internet and gaming content creator; former guest instructor at Qidian Academy."
+    "more": "I write about the internet and gaming and was a guest instructor at Qidian Academy."
   },
   "ja": {
     "label": "職務経歴書",
@@ -129,7 +139,7 @@
     "projects": "オープンソース",
     "education": "学歴",
     "skills": "専門領域",
-    "other": "個人開発と発信",
+    "other": "執筆・講師活動",
     "github": "GitHub プロフィール",
     "source": "コード",
     "siteSource": "サイトのソース",
@@ -145,6 +155,7 @@
       "運営とマーケティング",
       "広報",
       "技術アーキテクチャ",
+      "iOS 開発（Objective-C と Swift に精通）",
       "チームマネジメント"
     ],
     "bullets": [
@@ -173,6 +184,10 @@
         "2015.04–2018.03 商業プロダクト設計：モバイルブランド広告、フィード広告、検索リッチメディア広告に従事。検索広告領域でシニアプロダクトデザイナーへ昇進。",
         "初期のフィード広告管理・配信システムを構築。検索広告費に占めるリッチメディア広告の割合を 45%へ拡大。",
         "2013.01–2015.04 海外向け動画：アラビア語圏の動画サービスと VideoBox の設計、提携、プロジェクト管理を担当。サイト訪問数は 4 倍、クライアントは 50 万インストール超。"
+      ],
+      [
+        "2010 年に iOS アプリの個人開発を始め、「高清美剧」「寿司达人」などを App Store で公開。これまでに公開したアプリは 11 本で、累計ユーザー数は 100 万人を超えました。",
+        "学生会副会長を務め、大学全体の IT 基盤の整備を担当しました。"
       ]
     ],
     "updated": "2026年11月更新",
@@ -180,6 +195,6 @@
     "bachelors": "北京外国語大学",
     "degree": "学士 · 2009–2013",
     "langTitle": "語学資格",
-    "more": "2010 年から iOS アプリを個人開発。11 本を公開し、累計 50 万インストール超。インターネット・ゲーム分野で発信し、起点学院の特別講師を経験。"
+    "more": "インターネットやゲームについて執筆し、起点学院で特別講師を務めました。"
   }
 }
