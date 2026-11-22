@@ -5,9 +5,7 @@
     "summary": "职业摘要",
     "work": "工作经历",
     "projects": "开源项目",
-    "education": "教育背景",
     "skills": "专业领域",
-    "other": "内容创作与分享",
     "github": "GitHub 主页",
     "source": "源码",
     "siteSource": "本站源码",
@@ -59,11 +57,7 @@
       ]
     ],
     "updated": "更新于 2026 年 11 月",
-    "dataNote": "创业指标与市场地位为本人提供的业务口径；历史业绩依据个人履历。",
-    "bachelors": "北京外国语大学",
-    "degree": "学士学位 · 2009–2013",
-    "langTitle": "语言资质",
-    "more": "长期创作互联网与游戏内容，曾任起点学院特约讲师。"
+    "dataNote": "创业指标与市场地位为本人提供的业务口径；历史业绩依据个人履历。"
   },
   "en": {
     "label": "Curriculum vitae",
@@ -71,9 +65,7 @@
     "summary": "Profile",
     "work": "Experience",
     "projects": "Open-source projects",
-    "education": "Education",
     "skills": "Expertise",
-    "other": "Writing and teaching",
     "github": "GitHub profile",
     "source": "Code",
     "siteSource": "Website source",
@@ -125,11 +117,7 @@
       ]
     ],
     "updated": "Updated November 2026",
-    "dataNote": "Venture metrics and market-position claims are founder-reported; historical results are from my résumé.",
-    "bachelors": "Beijing Foreign Studies University",
-    "degree": "Bachelor’s degree · 2009–2013",
-    "langTitle": "Language qualifications",
-    "more": "I write about the internet and gaming and was a guest instructor at Qidian Academy."
+    "dataNote": "Venture metrics and market-position claims are founder-reported; historical results are from my résumé."
   },
   "ja": {
     "label": "職務経歴書",
@@ -137,9 +125,7 @@
     "summary": "職務要約",
     "work": "職務経歴",
     "projects": "オープンソース",
-    "education": "学歴",
     "skills": "専門領域",
-    "other": "執筆・講師活動",
     "github": "GitHub プロフィール",
     "source": "コード",
     "siteSource": "サイトのソース",
@@ -191,10 +177,6 @@
       ]
     ],
     "updated": "2026年11月更新",
-    "dataNote": "事業数値と市場での位置づけは本人提供の情報、過去の実績は本人の職務経歴に基づきます。",
-    "bachelors": "北京外国語大学",
-    "degree": "学士 · 2009–2013",
-    "langTitle": "語学資格",
-    "more": "インターネットやゲームについて執筆し、起点学院で特別講師を務めました。"
+    "dataNote": "事業数値と市場での位置づけは本人提供の情報、過去の実績は本人の職務経歴に基づきます。"
   }
 }
